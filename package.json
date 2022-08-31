@@ -19,7 +19,7 @@
     "esbuild": "^0.14.48",
     "multiple-cucumber-html-reporter": "^1.21.4"
   },
-  "dependencies": {
+  /*"dependencies": {
     "esbuild-darwin-64": "^0.14.48",
     "esbuild-android-arm64": "^0.14.48",
     "esbuild-darwin-arm64": "^0.14.48",
@@ -39,7 +39,7 @@
     "esbuild-linux-ppc64le": "^0.14.48",
     "esbuild-openbsd-64": "^0.14.48",
     "esbuild-linux-mips64le": "^0.14.48"
-  },
+  },*/
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JoanEsquivel/cypress-cucumber-boilerplate.git"
